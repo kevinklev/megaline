@@ -1,2 +1,4 @@
-# tripleten_projects
-Some of my featured projects from my time with the TripleTen Educational Platform
+# megaline
+This project involves conducting a preliminary analysis for Megaline, a telecom operator, to determine which of its two prepaid plans, Surf and Ultimate, yields higher revenue, thereby guiding the commercial department in allocating the advertising budget. Utilizing data on 500 clients, including their personal details, plan subscription, and usage statistics for calls, texts, and internet data in 2018, I analyzed user behavior and calculate the revenue generated from each plan.
+
+The project showcases a comprehensive range of data analyst skills, including data preprocessing (type conversion and error handling), exploratory data analysis (EDA), descriptive statistics (mean, variance, standard deviation), and graphical representation (histograms). It also requires proficiency in hypothesis testing to compare average revenues between different plans and user demographics, alongside a clear presentation of findings and justifications using appropriate statistical methods and thorough commentary throughout the analysis process.
